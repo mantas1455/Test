@@ -1,0 +1,19 @@
+{
+  "name": "ShineQuote",
+  "short_name": "ShineQuote",
+  "description": "Send premium itemised detailing quotes in 30 seconds. Built for mobile detailers.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E6B52",
+  "theme_color": "#0E6B52",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
